@@ -166,7 +166,6 @@ def drain_queue(q):
 
 # Get port from args
 #
-# TODO: argparse is way nicer
 import sys
 port = sys.argv[1]
 
